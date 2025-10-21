@@ -8,6 +8,7 @@
 * [검색](undefined-2/README.md)
   * [데이터 검색](undefined-2/undefined.md)
   * [상세 로그 검색](undefined-2/undefined-1.md)
+  * [통합검색](undefined-2/undefined-2.md)
 * [분석](undefined-3/README.md)
   * [이온주입](undefined-3/undefined.md)
   * [이상탐지](undefined-3/undefined-1.md)
